@@ -1,6 +1,6 @@
 ## 🐰 PARK SANG HOON 👻
 
-### 🍗
+### 😎
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanghoon556)](https://solved.ac/sanghoon556/)
 
 
@@ -15,6 +15,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?&style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 **sanghunii/sanghunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
