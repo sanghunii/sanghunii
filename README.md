@@ -6,14 +6,15 @@
 
 ## Skills 
 ### Language
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ### Tool
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?&style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--
 **sanghunii/sanghunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
