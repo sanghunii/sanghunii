@@ -18,6 +18,11 @@
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
+
+## Projects 
+[PNU-SW/torch model web serving](https://github.com/2024-PNU-SW-StudyGroup/Group-11) <br>
+[PNU-ChatBot](https://github.com/myeolinmalchi/PNUME-chat)
+
 <!--
 **sanghunii/sanghunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
