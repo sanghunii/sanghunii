@@ -1,7 +1,6 @@
 ## 🐰 PARK SANG HOON 👻
 
-### 😎
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanghoon556)](https://solved.ac/sanghoon556/)
+### Hi there!
 
 
 ## Skills 
