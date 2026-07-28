@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Sang-hoon Park. <br><br>
 🎓 Undergraduate Researcher at the Operation Management Lab, Pusan National University | Business Administration<br><br>
-💡 Research Interests: Deep Reinforcement Learning (DRL), Manufacturing Scheduling, Job Shop (JSP) & Flow Shop (FSP) Problems<br><br>
+💡 Research Interests: Deep Reinforcement Learning (DRL), Manufacturing Scheduling
 
 
 ## Skills 
